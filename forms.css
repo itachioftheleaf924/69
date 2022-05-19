@@ -1,0 +1,26 @@
+*{
+    display: flex;
+    flex-direction: column;
+}
+
+.space{
+    margin: 30px;
+    margin-left: 3px;
+    font-size: 22px;
+    color:red
+}
+.line{
+    display: inline;
+}
+.text{
+    text-decoration: none;
+}
+button{
+    margin-top: 20px;
+    size: 39px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    color: white;
+    background-color: black;}
